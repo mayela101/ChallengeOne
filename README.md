@@ -1,9 +1,10 @@
+
+This is a sample company site.
+
 # Horiseon Web Optimization
 
 The Horiseon website provides you with Web services such as, Search Engine Optimization, Online Reputation and Social Media Marketing.
 
-# Viewing
-[View the Horiseon website here!](https://mayela101.github.io/ChallengeOne/)
 
 # Here's a preview! 
 
